@@ -1,4 +1,6 @@
-# Architectural Collapse via Blank Spaces Language (BSL)
+# Original Report (2025): Architectural Collapse via Blank Spaces Language (BSL)
+
+> **Review note (October 2026):** This report reflects my original interpretation. Several conclusions, including the "self-regulation failure", the "architectural collapse" framing and the DDoS risk, were not supported by the evidence. See the [README](README.md) for the revised interpretation.
 
 ## 1. Unconventional Vector Development and BSL Design
 
@@ -100,5 +102,4 @@ The BSL test induces a failure in the LLM architecture that reveals a critical w
 ---
 
 ## Disclaimer
-
-This research was conducted for educational and security improvement purposes, following ethical principles in cybersecurity, and was initially presented in the context of a cybersecurity Hackathon. The findings have been shared with the relevant entities following responsible vulnerability disclosure programs.
+The findings were submitted to OpenAI's gpt-oss-20b Red-Teaming Challenge on Kaggle.
